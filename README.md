@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**truthlessreclusefictionkin-web/truthlessreclusefictionkin-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Her<p align="center">
+<p align="center">
   <img src="./1000114962.png" width="800">
 </p>
 
@@ -16,10 +11,14 @@ Her<p align="center">
 </p>
 
 <p align="center">
-   𝑅𝑜𝑚𝑎𝑛𝑐𝑒　　✦　　🌌
-   𝐺𝑎𝑙𝑎𝑥𝑦
+  🌹 𝑅𝑜𝑚𝑎𝑛𝑐𝑒　　✦　　🌌 𝐺𝑎𝑙𝑎𝑥𝑦
 </p>
 
 <p align="center">
   ♡ ─────── ♡ ─────── ♡
 </p>
+
+<!--
+**truthlessreclusefictionkin-web/truthlessreclusefictionkin-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
