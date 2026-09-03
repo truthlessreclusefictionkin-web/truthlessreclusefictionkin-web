@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./1000114962.png" width="800">
+   <img src="./banner.png" width="850">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🌹 𝑅𝑜𝑚𝑎𝑛𝑐𝑒　　✦　　🌌 𝐺𝑎𝑙𝑎𝑥𝑦
+   𝑅𝑜𝑚𝑎𝑛𝑐𝑒　　✦　　 𝐺𝑎𝑙𝑎𝑥𝑦
 </p>
 
 <p align="center">
