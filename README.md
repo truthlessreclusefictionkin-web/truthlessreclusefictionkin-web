@@ -1,6 +1,5 @@
 <p align="center">
-   <img src="./banner.png" width="850">
-</p>
+ <img src="./1000114962.png" width="850" </p>
 
 <p align="center">
   𓆩 𝑀 𝑦 𝐿 𝒊𝒍𝒚, ιѕ ᶦᵗ 𝑡𝑟𝑢𝑙𝑦 ᴏᴜʀ тιмє ᴛ𝚘 𝓅𝚊𝚛𝚝 ?.. 𓆪 ,࿐
